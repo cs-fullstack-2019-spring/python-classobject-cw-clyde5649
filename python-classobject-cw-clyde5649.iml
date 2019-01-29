@@ -1,0 +1,49 @@
+def main():
+   # problem1()
+   # problem2()
+
+
+
+
+
+
+class Dinner:
+
+     def  __init__(self, DishName="", protein="", veggie=""):
+        self.DishName = DishName
+        self.protein = protein
+        self. veggie = veggie
+
+
+    def printall(self):
+           print(self.DishName, self.protein, self.veggie)
+
+
+
+
+
+
+    NewDinner1 = Dinner()
+    NewDinner2 = Dinner("Chicken")
+    NewDinner3 = Dinner("Chicken","green")
+    NewDinner4 = Dinner("Chicken","green", "carrots")
+
+         print(NewDinner1)
+         print(NewDinner2)
+         print(NewDinner3)
+         print(NewDinner4
+
+
+
+
+         UserInput = ""
+         while(UserInput != "0")
+
+
+
+
+
+
+
+        if __name__ == '__main__':
+        main()
